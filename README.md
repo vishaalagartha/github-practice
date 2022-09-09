@@ -1,2 +1,3 @@
 # github-practice
-Five guys burger is the best
+In-n-out has the best burgers!
+
