@@ -1,2 +1,2 @@
 # github-practice
-Practice for FSE.
+In-n-out has the best burgers!
